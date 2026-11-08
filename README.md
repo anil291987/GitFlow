@@ -9,8 +9,6 @@ repositories, config and credentials.
 > for production purposes, and keep backups of any repository you open
 > with it.
 
-**[Download the latest release](https://github.com/anil291987/GitFlow/releases/latest)**
-
 This repository hosts GitFlow's releases, documentation and issue
 tracker. The source code is not public.
 
